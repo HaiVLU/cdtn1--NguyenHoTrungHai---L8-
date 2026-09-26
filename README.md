@@ -48,6 +48,9 @@ L8/
 ├── src/               # Mã nguồn chính của hệ thống
 └── tests/             # Các test case của hệ thống
 
+
+
+
 ## 5. Kiểm thử
 Hiện tại project đang ở giai đoạn khởi tạo.
 
